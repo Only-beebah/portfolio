@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(39, 35, 35);
+    color: white;
+}
+.nav-links {
+    display: flex;
+    margin: 30px;
+}
+.nav:hover {
+    margin-top: 10px;
+    border-bottom: 4px solid darkcyan;
+}
+h3 {
+    margin-left: 150px;
+}
+.nav {
+    margin: 10px;
+    text-decoration: none;
+    margin-left: 220px;
+}
+li {
+    list-style: none;
+}
+h2 {
+    margin-left: 900px;
+    margin-top: 50px;
+}
+.one {
+    color: darkcyan;
+}
+.mage {
+    border-radius: 20px;
+    margin: 30px;
+    transition:5s ease ;
+}
+.mage:hover {
+    transform: scale(1.1);
+}
+
+.two {
+    display: flex;
+}
